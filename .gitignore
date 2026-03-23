@@ -1,8 +1,28 @@
+# Python
 venv/
-ai-service/venv/
-spring-backend/venv/
-studymind-frontend/venv/
-node_modules/
+.venv/
 __pycache__/
 *.pyc
-.env
+
+# Node
+node_modules/
+
+# Java
+target/
+*.class
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Logs
+*.log
+
+# Large/binary files
+*.dll
+*.exe
+*.zip
